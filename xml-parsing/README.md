@@ -25,7 +25,7 @@ git clone https://github.com/Pankaj-SinghR/IOT-Programs-Assignment.git
 ### Change directory
 
 ```
-cd xml-parsing
+cd IOT-Programs-Assignment/xml-parsing
 ```
 
 ### Run the python file
